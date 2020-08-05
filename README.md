@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at SAP as a Software Developer Architect.
+- 🌱 I’m currently learning React and that surprisingly interesting and easy for a lazy guy as me to understand.
+- ⚡ I’m currently studying CAD, which is not CAD neither CAD, but Coronary Artery Disease(CAD) on my Masters Degree.
+
+## 📫 How to reach me:
+- [SAP Community](https://people.sap.com/samuel.armbrust)
+- [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
+- [Quora](https://www.quora.com/profile/Samuel-Armbrust-1)
+
 <!--
 **armbrustsamuel/armbrustsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
