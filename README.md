@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at SAP as a Software Developer Architect.
-- 🌱 I’m currently learning React and that surprisingly interesting and easy for a lazy guy as me to understand.
+- 🌱 I’m currently learning React and that surprisingly interesting and easy to understand.
 - ⚡ I’m currently studying CAD, which is not CAD neither CAD, but Coronary Artery Disease(CAD) on my Masters Degree.
 
 ## 📫 How to reach me:
