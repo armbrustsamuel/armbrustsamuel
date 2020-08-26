@@ -8,6 +8,7 @@
 - [SAP Community](https://people.sap.com/samuel.armbrust)
 - [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
 - [Twitter](https://twitter.com/ArmbrustSamuel)
+- [Github User Content](https://github.com/armbrustsamuel/armbrustsamuel.github.io)
 
 <!--
 **armbrustsamuel/armbrustsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
