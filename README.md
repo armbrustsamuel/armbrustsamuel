@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at SAP as a Software Developer Architect.
+- 🔭 I’m currently working at SAP as a Software Architect.
 - 🌱 I’m currently learning React and that is surprisingly interesting and easy to understand.
 - ⚡ I’m currently studying Coronary Artery Disease(CAD) on my Master's degree.
 
