@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at SAP as a Software Architect.
 - 🌱 I’m currently learning React and that is surprisingly interesting and easy to understand.
-- ⚡ I’m currently studying Coronary Artery Disease(CAD) on my Master's degree.
+- ⚡ I’m currently studying Coronary Artery Disease(CAD) in my PhD's degree.
 
 ## 📫 How to reach me:
 - [SAP Community](https://people.sap.com/samuel.armbrust)
