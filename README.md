@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at SAP as a Software Architect.
-- 🌱 I’m currently learning React and that is surprisingly interesting and easy to understand.
-- ⚡ I’m currently studying Coronary Artery Disease(CAD) in my PhD's degree.
+- 🌱 I’m currently learning Object Detection Networks and it is definitely not simple.
+- ⚡ I’m currently studying Deep Learning applied to healthcare on my PhD.
+- 💬 I am passionate about architecture, healthcare researches and the german culture.
 
 ## 📫 How to reach me:
 - [SAP Community](https://people.sap.com/samuel.armbrust)
 - [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
-- [Twitter](https://twitter.com/ArmbrustSamuel)
 - [Github User Content](https://armbrustsamuel.github.io/)
 
 <!--
