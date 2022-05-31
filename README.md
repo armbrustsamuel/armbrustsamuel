@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=armbrustsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="armbrustsamuel" /> [![GitHub followers](https://img.shields.io/github/followers/armbrustsamuel?label=Follow&style=social)](https://github.com/ggsant/?tab=follow)
+<img src="https://komarev.com/ghpvc/?username=armbrustsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="armbrustsamuel" /> [![GitHub followers](https://img.shields.io/github/followers/armbrustsamuel?label=Follow&style=social)](https://github.com/armbrustsamuel/?tab=follow)
 
 - 🔭 I’m currently working at SAP as a Software Architect.
 - 🌱 I’m currently learning Object Detection Networks and it is definitely not simple.
@@ -11,6 +11,18 @@
 - [SAP Community](https://people.sap.com/samuel.armbrust)
 - [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
 - [Github User Content](https://armbrustsamuel.github.io/)
+
+
+### Statistics
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+  <p align="center"> <a href="https://github.com/armbrustsamuel"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armbrustsamuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
+<br>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armbrustsamuel&layout=compact&theme=radical" alt="armbrustsamuel" /> </p>
+</p>
+</details>
 
 <!--
 **armbrustsamuel/armbrustsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
