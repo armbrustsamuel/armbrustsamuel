@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=armbrustsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="armbrustsamuel" /> [![GitHub followers](https://img.shields.io/github/followers/armbrustsamuel?label=Follow&style=social)](https://github.com/ggsant/?tab=follow)
+
 - 🔭 I’m currently working at SAP as a Software Architect.
 - 🌱 I’m currently learning Object Detection Networks and it is definitely not simple.
 - ⚡ I’m currently studying Deep Learning applied to healthcare on my PhD.
