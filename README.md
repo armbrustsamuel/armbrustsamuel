@@ -10,7 +10,7 @@
 ## 📫 How to reach me:
 - [SAP Community](https://people.sap.com/samuel.armbrust)
 - [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
-- [Github User Content](https://armbrustsamuel.github.io/)
+- [Personal page](https://armbrustsamuel.github.io/)
 
 
 ### Statistics
