@@ -11,18 +11,6 @@
 - [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
 - [Personal page](https://armbrustsamuel.github.io/)
 
-
-### Statistics
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-  <p align="center"> <a href="https://github.com/armbrustsamuel"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armbrustsamuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
-<br>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armbrustsamuel&layout=compact&theme=radical" alt="armbrustsamuel" /> </p>
-</p>
-</details>
-
 <!--
 **armbrustsamuel/armbrustsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
