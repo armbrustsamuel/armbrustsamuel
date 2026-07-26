@@ -2,9 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=armbrustsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="armbrustsamuel" /> [![GitHub followers](https://img.shields.io/github/followers/armbrustsamuel?label=Follow&style=social)](https://github.com/armbrustsamuel/?tab=follow)
 
-- 🔭 Software Engineer @ SAP.
-- ⚡ Study Deep Learning and Domain Generalization applied to healthcare.
-- 💬 Interested in architecture, healthcare and german language.
+- 🔭 Software Architect @ SAP.
+- ⚡ Assistant Professor @ Unisinos.
 
 ## 📫 How to reach me:
 - [SAP Community](https://people.sap.com/samuel.armbrust)
