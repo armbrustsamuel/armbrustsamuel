@@ -6,7 +6,7 @@
 - ⚡ Assistant Professor @ Unisinos.
 
 ## 📫 How to reach me:
-- [SAP Community](https://people.sap.com/samuel.armbrust)
+- [SAP Community](https://profile.sap.com/u/armbrustsamuel)
 - [Linkedin](https://www.linkedin.com/in/armbrustsamuel/)
 - [Personal page](https://armbrustsamuel.github.io/)
 
